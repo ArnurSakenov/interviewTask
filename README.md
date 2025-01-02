@@ -37,7 +37,7 @@ The project follows the MVVM (Model-View-ViewModel) architecture pattern, promot
 1. **Clone the repository**
 
    ```bash
-   git clone [https://github.com/ArnurSakenov/interviewTask.git]
+   git clone https://github.com/ArnurSakenov/interviewTask.git
    ```
 
 2. **Open the project**
